@@ -1,5 +1,7 @@
 # ToDo-list
 
+## Managing tasks one line at a time — a to-do list made with JavaScript
+
 
 
 -[Demo Project](https://ghazalehnezamghadiri.github.io/ToDo-list/) 
